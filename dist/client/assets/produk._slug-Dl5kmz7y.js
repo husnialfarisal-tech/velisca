@@ -1,0 +1,1 @@
+import{j as e}from"./index-CwSxq5Pl.js";const o=({error:r})=>e.jsx("div",{className:"container-luxe py-24 text-center",children:e.jsxs("p",{className:"text-muted-foreground",children:["Gagal memuat produk: ",r.message]})});export{o as errorComponent};

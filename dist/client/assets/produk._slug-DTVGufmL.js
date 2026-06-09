@@ -1,0 +1,1 @@
+import{j as t,L as n}from"./index-CwSxq5Pl.js";const e=()=>t.jsxs("div",{className:"container-luxe py-24 text-center",children:[t.jsx("h1",{className:"font-display text-3xl",children:"Produk tidak ditemukan"}),t.jsx(n,{to:"/produk",className:"btn-gold mt-6 inline-block rounded-md px-5 py-2.5 text-sm",children:"Lihat semua produk"})]});export{e as notFoundComponent};
